@@ -1,9 +1,11 @@
-.bg-dark-steam {
+.bg-dark-steam,
+.card {
     background-color: #131823;
 }
 
 .bg-steam,
-.bg-steam a {
+.bg-steam a,
+.bg-steam::placeholder {
     background-color: #1B2838;
     color: #FFFFFF;
 }
@@ -25,3 +27,18 @@
     text-align: center;
     justify-content: center;
 }
+
+.form-control,
+.input-group-text,
+.card {
+    border: none;
+}
+/*
+.card img {
+    position: relative;
+}
+
+.card-img-overlay img{
+    position: absolute;
+    bottom: 5%;
+}*/
