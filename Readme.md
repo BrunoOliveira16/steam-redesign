@@ -56,7 +56,7 @@ O código é um projeto de uma página web para a plataforma de jogos Steam. Ele
 <br>
 
 ## 💻 Demonstração
-Para visualizar uma prévia do projeto <a href="#" target="_blank"><b>clique aqui</b></a>
+Para visualizar uma prévia do projeto <a href="https://steam-redesign-henna.vercel.app/" target="_blank"><b>clique aqui</b></a>
 
 <br>
 
