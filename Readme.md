@@ -16,25 +16,35 @@
 <br>
 
 ## 📌 Resumo do Projeto
-Esse é um projeto de clone da loja do steam onde seu design web utiliza o framework bootstrap para criar um layout responsivo e atraente. O site conta com diversas seções, como um carousel de imagens, cards informativos, uma lista de navegação. O site foi desenvolvido com o objetivo de praticar as opções que o framework boostratp oferece em conjunto com o css.
+O código é um projeto de uma página web para a plataforma de jogos Steam. Ele utiliza HTML5 e Bootstrap para criar uma interface responsiva e atraente. O código inclui um cabeçalho com um menu de navegação e um carrossel de imagens para exibir jogos em destaque. O projeto aplica conceitos de design responsivo e uso de bibliotecas externas para estilização. Além disso, o código também inclui uma seção com links para diferentes categorias e uma barra de pesquisa para encontrar jogos. Também há seções para navegar pelos jogos do Steam e explorar por categoria. A seção “Explore por categoria” apresenta cartões com imagens e informações sobre jogos em promoção. Há também uma seção para jogos gratuitos e um rodapé com o logotipo da Steam.
 
 <br>
 
 ## ⭐ Features
-- Menu de navegação responsivo
-- Seção de carousel com imagens;
-- Seção de cards sobre de jogos;
-- Seção de card de jogos em promoção;
-- Seção com lista de navegação
-- Seção com card de jogos gratuitos;
+- Página web para a plataforma de jogos Steam
+- Utiliza HTML5 e Bootstrap
+- Interface responsiva e atraente
+- Cabeçalho com menu de navegação
+- Carrossel de imagens para exibir jogos em destaque
+- Design responsivo
+- Uso de bibliotecas externas para estilização
+- Seção com links para diferentes categorias
+- Barra de pesquisa para encontrar jogos
+- Seções para navegar pelos jogos do Steam e explorar por categoria
+- Cartões com imagens e informações sobre jogos em promoção
+- Seção para jogos gratuitos
+- Rodapé com o logotipo da Steam.
 
 <br>
 
 ## 📂 Temas abordados
-- HTML Semântico
-- CSS responsivo
-- Utilização do Bootstrap
-- Deploy na Vercel
+- HTML5: linguagem de marcação utilizada para estruturar o conteúdo da página.
+- Bootstrap: framework CSS utilizado para estilizar a página e torná-la responsiva.
+- Design responsivo: conceito aplicado para garantir que a página se adapte a diferentes tamanhos de tela.
+- Bibliotecas externas: Bootstrap e Bootstrap Icons foram utilizadas para estilização e adição de ícones.
+- CSS: linguagem de estilo utilizada para estilizar a página.
+- JavaScript: linguagem de programação utilizada pelo Bootstrap para adicionar interatividade à página (por exemplo, o menu de navegação em - dispositivos móveis).
+- Deploy na Vercel: plataforma utilizada para fazer o deploy do projeto e disponibilizá-lo na web.
 
 <br>
 
